@@ -5,3 +5,12 @@
 body{
     background-color: rgb(224, 226, 229);
 }
+.card-radius{
+    border-radius: 20px;
+}
+.header-bg{
+    background: rgb(89, 227, 227);
+}
+.btn{
+    border-radius: 25px;
+}
